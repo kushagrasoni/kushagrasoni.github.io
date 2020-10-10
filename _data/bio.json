@@ -1,39 +1,34 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Kushagra Soni",
+    "label": "Software Developer",
+    "picture": "https://kushagrasoni.github.io/images/kushagra.png",
+    "email": "soni.kushagra24@gmail.com",
+    "phone": "224-770-7435",
+    "website": "https://kushagrasoni.github.io",
+    "summary": "I am current working for CGI Technologies a Software Developer. I ",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "Whitney Road",
+      "postalCode": "44136",
+      "city": "Strongville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kushagrasoni",
+        "url": "http://github.com/kushagrasoni"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "kushagrasoni",
+        "url": "http://linkedin.com/in/kushagrasoni"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kushagrasoni",
+        "url": "http://instagram.com/iamkushagr"
       }
     ]
   },
@@ -61,57 +56,55 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
+        "Spark",
+        "Big Data",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Flask"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Poorninma College of Engineering, Jaipur",
+      "area": "Electronics & Communication Engineering",
+      "studyType": "Bachelor Of Technology",
+      "startDate": "2007-08-01",
+      "endDate": "2011-05-01",
+      "gpa": "3",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "CGI Technologies",
+      "position": "Software Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-02-19",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Leading Python, Big Data and Data Automation Development activities",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Design, Develop and Support Big Data & Python based Automation Framework for Data testing needs of the organization",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Mastech Digital",
+      "position": "IT Analyst",
+      "website": "",
+      "startDate": "2018-05-21",
+      "endDate": "2020-02-18",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
