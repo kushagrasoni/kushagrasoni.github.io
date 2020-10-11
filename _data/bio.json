@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Automation",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Data Automation",
+        "Test Automation"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Python",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "UI Development",
       "keywords": [
       ]
     }
@@ -60,6 +60,7 @@
         "Spark",
         "Big Data",
         "Java",
+        "DevOps",
         "Flask"
       ]
     },
@@ -69,8 +70,10 @@
       "keywords": [
         "Windows",
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub"
+        "Red Hat",
+        "Git/GitHub",
+        "Jenkins",
+        "UDeploy"
       ]
     }
   ],
