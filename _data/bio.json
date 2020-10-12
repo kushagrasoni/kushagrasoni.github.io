@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kushagra Soni",
-    "label": "Software Developer",
+    "label": "A Passionate Software Developer and Artist",
     "picture": "https://kushagrasoni.github.io/images/kushagra.jpg",
     "email": "soni.kushagra24@gmail.com",
     "phone": "224-770-7435",
     "website": "https://kushagrasoni.github.io",
-    "summary": "I am currently working for CGI Technologies as a Software Developer.",
+    "summary": "Currently working for CGI Technologies as a Software Developer.",
     "location": {
       "address": "Whitney Road",
       "postalCode": "44136",
@@ -43,11 +43,16 @@
     {
       "name": "Python",
       "keywords": [
+        "pyspark",
+        "pandas"
       ]
     },
     {
       "name": "UI Development",
       "keywords": [
+        "Flask",
+        "HTML",
+        "CSS"
       ]
     }
   ],
@@ -96,10 +101,10 @@
       "website": "",
       "startDate": "2020-02-19",
       "endDate": "Present",
-      "summary": "Leading Python, Big Data and Data Automation Development activities",
+      "summary": "Leading Design, Development and Automation activities for various Web and Data management products",
       "highlights": [
-        "Design, Develop and Support Big Data & Python based Automation Framework for Data testing needs of the organization",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Design, Develop and Support Big Data & Python based Automation Frameworks.",
+        "Develop and support Data management products for all organizational data needs."
       ]
     },
     {
@@ -110,8 +115,8 @@
       "endDate": "2020-02-18",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed test automation solutions for big data and dataware projects.",
+        "Designed data mapping and support data testing activities across various big data projects."
       ]
     },
     {
@@ -122,7 +127,7 @@
       "endDate": "2018-05-18",
       "summary": "",
       "highlights": [
-        "Created Java vased Automation framework to validate Calcidu TrueComp Calculation Engine Rules.",
+        "Created Java based Automation framework to validate Calcidu TrueComp Calculation Engine Rules.",
         "Created Python based Bonus validation tool for business users."
       ]
     }
