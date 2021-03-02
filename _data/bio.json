@@ -48,6 +48,13 @@
       ]
     },
     {
+      "name": "Big Data Development",
+      "keywords": [
+        "Hadoop",
+        "Spark"
+      ]
+    },
+    {
       "name": "UI Development",
       "keywords": [
         "Flask",
